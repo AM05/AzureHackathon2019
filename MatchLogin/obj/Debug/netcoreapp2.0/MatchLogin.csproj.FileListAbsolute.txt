@@ -1,0 +1,22 @@
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\obj\Debug\netcoreapp2.0\MatchLogin.csprojAssemblyReference.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\obj\Debug\netcoreapp2.0\MatchLogin.csproj.CoreCompileInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\obj\Debug\netcoreapp2.0\MatchLogin.AssemblyInfoInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\obj\Debug\netcoreapp2.0\MatchLogin.AssemblyInfo.cs
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\bin\Debug\netcoreapp2.0\MatchLogin.deps.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\bin\Debug\netcoreapp2.0\MatchLogin.runtimeconfig.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\bin\Debug\netcoreapp2.0\MatchLogin.runtimeconfig.dev.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\bin\Debug\netcoreapp2.0\MatchLogin.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\bin\Debug\netcoreapp2.0\MatchLogin.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\obj\Debug\netcoreapp2.0\MatchLogin.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\obj\Debug\netcoreapp2.0\MatchLogin.pdb
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\bin\Debug\netcoreapp2.0\MatchLogin.deps.json
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\bin\Debug\netcoreapp2.0\MatchLogin.runtimeconfig.json
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\bin\Debug\netcoreapp2.0\MatchLogin.runtimeconfig.dev.json
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\bin\Debug\netcoreapp2.0\MatchLogin.dll
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\bin\Debug\netcoreapp2.0\MatchLogin.pdb
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\obj\Debug\netcoreapp2.0\MatchLogin.csprojAssemblyReference.cache
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\obj\Debug\netcoreapp2.0\MatchLogin.csproj.CoreCompileInputs.cache
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\obj\Debug\netcoreapp2.0\MatchLogin.AssemblyInfoInputs.cache
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\obj\Debug\netcoreapp2.0\MatchLogin.AssemblyInfo.cs
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\obj\Debug\netcoreapp2.0\MatchLogin.dll
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatchLogin\obj\Debug\netcoreapp2.0\MatchLogin.pdb

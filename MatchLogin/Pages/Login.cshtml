@@ -1,0 +1,29 @@
+﻿@page
+@model SimpleLogin.Pages.LoginModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+
+<html>
+<body>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <form method="post">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <table style="width:25%" border="1" align="center">
+            <tr><th bgcolor="#00FFFF"> <strong>Login to Match form below: </strong> </th> </tr>
+            <tr> <th>Username: <input asp-for="loginData.Username" value="" /> </th></tr>
+            <tr> <th>Password: <input asp-for="loginData.Password" value="" /> </th></tr>
+            <tr><th> Remember me: <input asp-for="loginData.RememberMe" type="checkbox" /> </th></tr>
+            <tr><th><input type="submit" value="Login" /></th></tr>
+            <tr></tr>
+        </table>
+
+        @Html.AntiForgeryToken()
+    </form>
+</body>
+</html>
