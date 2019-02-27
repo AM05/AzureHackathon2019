@@ -1,0 +1,12 @@
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\WCFMatcHDAL\bin\Debug\WCFMatcHDAL.dll.config
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\WCFMatcHDAL\bin\Debug\WCFMatcHDAL.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\WCFMatcHDAL\bin\Debug\WCFMatcHDAL.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\WCFMatcHDAL\obj\Debug\WCFMatcHDAL.csproj.CoreCompileInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\WCFMatcHDAL\obj\Debug\WCFMatcHDAL.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\WCFMatcHDAL\obj\Debug\WCFMatcHDAL.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\WCFMatcHDAL\bin\Debug\EntityFramework.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\WCFMatcHDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\WCFMatcHDAL\bin\Debug\EntityFramework.xml
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\WCFMatcHDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\WCFMatcHDAL\obj\Debug\WCFMatcHDAL.csprojAssemblyReference.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\WCFMatcHDAL\obj\Debug\WCFMatcHDAL.csproj.CopyComplete
