@@ -1,0 +1,9 @@
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\bin\Debug\netcoreapp2.0\MatcHDataAccess.deps.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\bin\Debug\netcoreapp2.0\MatcHDataAccess.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDataAccess.csprojResolveAssemblyReference.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDataAccess.csproj.CoreCompileInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDataAccess.AssemblyInfoInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDataAccess.AssemblyInfo.cs
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\bin\Debug\netcoreapp2.0\MatcHDataAccess.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDataAccess.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDataAccess.pdb

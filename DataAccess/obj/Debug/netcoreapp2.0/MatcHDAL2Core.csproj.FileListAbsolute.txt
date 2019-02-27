@@ -1,0 +1,27 @@
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\DataAccess\bin\Debug\netcoreapp2.0\MatcHDAL2Core.deps.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\DataAccess\bin\Debug\netcoreapp2.0\MatcHDAL2Core.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\DataAccess\bin\Debug\netcoreapp2.0\MatcHDAL2Core.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.csprojAssemblyReference.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.csproj.CoreCompileInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.AssemblyInfoInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.AssemblyInfo.cs
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\bin\Debug\netcoreapp2.0\MatcHDAL2Core.deps.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\bin\Debug\netcoreapp2.0\MatcHDAL2Core.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\bin\Debug\netcoreapp2.0\MatcHDAL2Core.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.csprojAssemblyReference.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.csproj.CoreCompileInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.AssemblyInfoInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.AssemblyInfo.cs
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.pdb
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\bin\Debug\netcoreapp2.0\MatcHDAL2Core.deps.json
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\bin\Debug\netcoreapp2.0\MatcHDAL2Core.dll
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\bin\Debug\netcoreapp2.0\MatcHDAL2Core.pdb
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.csprojAssemblyReference.cache
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.csproj.CoreCompileInputs.cache
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.AssemblyInfoInputs.cache
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.AssemblyInfo.cs
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.dll
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\DataAccess\obj\Debug\netcoreapp2.0\MatcHDAL2Core.pdb
