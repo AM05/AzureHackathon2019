@@ -1,0 +1,48 @@
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.deps.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.runtimeconfig.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.runtimeconfig.dev.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHDAL2Core.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHDAL2Core.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.csprojAssemblyReference.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.csproj.CoreCompileInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.AssemblyInfoInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.AssemblyInfo.cs
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.csproj.CopyComplete
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.Properties.Resources.resources
+C:\Shan_Proj_2018\Microservices\MatcHCore\TEMP\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.csproj.GenerateResource.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.deps.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.runtimeconfig.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.runtimeconfig.dev.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHDAL2Core.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHDAL2Core.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.csprojAssemblyReference.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.Properties.Resources.resources
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.csproj.GenerateResource.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.csproj.CoreCompileInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.AssemblyInfoInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.AssemblyInfo.cs
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.csproj.CopyComplete
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.pdb
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.deps.json
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.runtimeconfig.json
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.runtimeconfig.dev.json
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.dll
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVCC.pdb
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHDAL2Core.dll
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHDAL2Core.pdb
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.csprojAssemblyReference.cache
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.Properties.Resources.resources
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.csproj.GenerateResource.cache
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.csproj.CoreCompileInputs.cache
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.AssemblyInfoInputs.cache
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.AssemblyInfo.cs
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.csproj.CopyComplete
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.dll
+C:\02 ABN AMRO\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVCC.pdb

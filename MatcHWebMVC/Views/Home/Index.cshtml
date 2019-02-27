@@ -1,0 +1,93 @@
+﻿@using System.Data;
+@using System.Data.SqlClient;
+@using MatcHWebMVCC.Models;
+@model IEnumerable<MatcHWebMVCC.Models.FirstPage>
+
+@{
+    ViewData["Title"] = "Home Page";
+    //ViewData["FirstPageData"] = "Index";
+}
+
+
+<p>
+    Blank lines
+</p>
+<br />
+<br />
+<div class="row">
+    <div class="col-lg-3">
+        <h3>Latest Updates of</h3>
+        <h1>MatcH</h1>
+        <h2>
+            @{  
+                @foreach (var item in Model)
+                {                    
+                    @Html.DisplayFor(modelitem => item.AllWaveNos);
+                }
+            }
+        </h2>
+        <ul>
+            <li>400 Applications migrated to Cloud</li>
+            <li>W-27-28 applications migrated to Cloud</li>
+            <li>17 Applications in QG0</li>
+        </ul>
+    </div>
+    <div class="col-lg-3">
+        <h2>PDD Status</h2>
+        @{ ViewData["FirstPageData"] = "Index";
+          @foreach (var item in Model)
+          {
+              <ul>
+                  <li>
+                      @Html.DisplayFor(modelitem => item.IT_Product_name) &nbsp; @Html.DisplayFor(modelitem => item.pdd_status)
+                  </li>
+              </ul>
+          }
+        }
+        <ul>
+            <li>v0.6</li>
+            <li>v0.9</li>
+            <li>preTDA</li>
+            <li>TDA</li>
+            <li>QG1</li>
+        </ul>
+    </div>
+    <div class="col-lg-3">
+        <h2>SRQ Status</h2>
+        @{ ViewData["FirstPageData"] = "Index";
+           @foreach (var item in Model)
+           {
+               <ul>
+                   <li>
+                       @Html.DisplayFor(modelitem => item.SRQStatus)
+                   </li>
+               </ul>
+           }
+        }
+        <ul>
+            <li>SRQ placed in April</li>
+            <li>SRQ to be created</li>
+        </ul>
+    </div>
+    <div class="col-lg-3">
+        <h2>Blockers</h2>
+        @{ ViewData["FirstPageData"] = "Index";
+            @foreach (var item in Model)
+            {
+                <ul>
+                    <li>
+                        @Html.DisplayFor(modelitem => item.Blocker)
+                    </li>
+                </ul>
+            }
+        }
+        <ul>
+            <li> v0.4 </li>
+            <li>v0.6  </li>
+            <li>v0.9 </li>
+        </ul>
+    </div>
+    <div>
+        
+    </div>
+</div>

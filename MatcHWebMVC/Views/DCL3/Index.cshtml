@@ -1,0 +1,108 @@
+﻿@model IEnumerable<MatcHWebMVC.Models.DCL3>
+@{        
+    ViewData["dCL3"] = "Index";    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+            font-size: 12px;
+        }
+
+        td, th {
+            border: 1px solid #aaaaaa;
+            text-align: left;
+            padding: 0px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #aaaacc;
+        }
+    </style>
+    <title>Index</title>
+</head>
+<body>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>                    
+                    @Html.DisplayNameFor(model => model.MAI)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Wave)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DOMAIN)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IT_GRID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.OAR_ID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PRODUCT_ID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IT_PRODUCT)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MATCH_ITPRODUCT)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MATCH_VENDOR)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>                
+                @Html.DisplayFor(modelItem => item.MAI)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Wave)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DOMAIN)
+            </td>           
+            <td>
+                @Html.DisplayFor(modelItem => item.IT_GRID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OAR_ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PRODUCT_ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IT_PRODUCT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MATCH_ITPRODUCT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MATCH_VENDOR)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.DCL3ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.DCL3ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.DCL3ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</body>
+</html>

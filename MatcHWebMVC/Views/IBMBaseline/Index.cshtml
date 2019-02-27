@@ -1,0 +1,258 @@
+﻿@model IEnumerable<MatcHWebMVCC.Models.IBMBaseline>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.MAI)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.RP_CI_Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.RP_Environment)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PLATFORM)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.VERSION)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.OAR_ID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DOMAIN_IT_PRODUCT)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DOMAIN_OAR)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SUB_DOMAIN)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ADM_VENDOR)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MAINT_VENDOR)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IT_PRODUCT_ID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IT_PRODUCT)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IT_BUSINESS_SERVICE)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CIA_RATING_IT_PRODUCT)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CIA_RATING_OAR)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.RP_CI_STATUS)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PLANNING)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ACTION)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SUB_ACTION)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MATCH_WAVE)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MATCH_DATE)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MATCH_PHASE)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CLEAN_SOURCE)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CLEAN_DATE)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CLEAN_PHASE)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CLEAN_ID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.HISTORY)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.STATUS_IT_PRODUCT)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PRIMARY_CI_NAME)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ADDRESS_OF_CI)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LOGICAL_CI_AD_DOMAIN)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IP_ADDRESS)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MATCH_VENDOR)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CIA)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PHYSICAL_SERVER_NAME)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PHYSICAL_CI_NAME)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.BUSINESS_SERVICE)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MAI)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RP_CI_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RP_Environment)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PLATFORM)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VERSION)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OAR_ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DOMAIN_IT_PRODUCT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DOMAIN_OAR)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SUB_DOMAIN)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ADM_VENDOR)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MAINT_VENDOR)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IT_PRODUCT_ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IT_PRODUCT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IT_BUSINESS_SERVICE)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CIA_RATING_IT_PRODUCT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CIA_RATING_OAR)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RP_CI_STATUS)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PLANNING)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ACTION)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SUB_ACTION)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MATCH_WAVE)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MATCH_DATE)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MATCH_PHASE)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CLEAN_SOURCE)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CLEAN_DATE)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CLEAN_PHASE)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CLEAN_ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HISTORY)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.STATUS_IT_PRODUCT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PRIMARY_CI_NAME)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ADDRESS_OF_CI)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LOGICAL_CI_AD_DOMAIN)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IP_ADDRESS)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MATCH_VENDOR)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CIA)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PHYSICAL_SERVER_NAME)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PHYSICAL_CI_NAME)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BUSINESS_SERVICE)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.BASELINEID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.BASELINEID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.BASELINEID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

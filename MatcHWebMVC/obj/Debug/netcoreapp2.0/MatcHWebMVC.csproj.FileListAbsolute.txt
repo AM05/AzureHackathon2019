@@ -1,0 +1,17 @@
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVC.deps.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVC.runtimeconfig.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVC.runtimeconfig.dev.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVC.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVC.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC.csproj.CoreCompileInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC.AssemblyInfoInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC.AssemblyInfo.cs
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC.csprojResolveAssemblyReference.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC.csprojResolveAssemblyReference.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC.csproj.CoreCompileInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC.AssemblyInfoInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC.AssemblyInfo.cs
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHProject\MatcHWebMVC\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC.pdb

@@ -1,0 +1,11 @@
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC_old\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVC_old.deps.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC_old\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVC_old.runtimeconfig.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC_old\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVC_old.runtimeconfig.dev.json
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC_old\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVC_old.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC_old\MatcHWebMVC\bin\Debug\netcoreapp2.0\MatcHWebMVC_old.pdb
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC_old\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC_old.csprojResolveAssemblyReference.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC_old\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC_old.csproj.CoreCompileInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC_old\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC_old.AssemblyInfoInputs.cache
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC_old\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC_old.AssemblyInfo.cs
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC_old\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC_old.dll
+C:\Shan_Proj_2018\Microservices\MatcHCore\MatcHWebMVC_old\MatcHWebMVC\obj\Debug\netcoreapp2.0\MatcHWebMVC_old.pdb

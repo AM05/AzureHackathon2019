@@ -1,0 +1,99 @@
+﻿@model MatcHWebMVC.Models.DCL3
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+            font-size: 12px;
+        }
+
+        td, th {
+            border: 1px solid #aaaaaa;
+            text-align: left;
+            padding: 0px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #aaaacc;
+        }
+    </style>
+    <title>Details</title>
+</head>
+<body>
+
+<div>
+    <h4>DCL3</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MAI)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MAI)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Wave)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Wave)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DOMAIN)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DOMAIN)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.IT_GRID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IT_GRID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.OAR_ID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.OAR_ID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PRODUCT_ID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PRODUCT_ID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.IT_PRODUCT)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.IT_PRODUCT)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.MATCH_ITPRODUCT)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MATCH_ITPRODUCT)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.MATCH_VENDOR)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MATCH_VENDOR)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.DCL3ID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+</body>
+</html>
