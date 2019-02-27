@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="AAB_BANKModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Wave_Plan">
+          <Key>
+            <PropertyRef Name="Wave_Plan_ID" />
+          </Key>
+          <Property Name="Wave_Plan_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ADV_Health" Type="nvarchar(max)" />
+          <Property Name="Assigned_Domain" Type="nvarchar(max)" />
+          <Property Name="Assigned_ITDDM" Type="nvarchar(max)" />
+          <Property Name="BAU_AD_VENDOR" Type="nvarchar(max)" />
+          <Property Name="CIA_Rating" Type="decimal" Precision="18" Scale="2" />
+          <Property Name="CI_Count" Type="decimal" Precision="18" Scale="2" />
+          <Property Name="Category" Type="nvarchar(max)" />
+          <Property Name="DOMAIN" Type="nvarchar(max)" />
+          <Property Name="Go_Live_on_CMS" Type="nvarchar(max)" />
+          <Property Name="Grouping" Type="nvarchar(max)" />
+          <Property Name="IT_DELIVERY_DOMAIN" Type="nvarchar(max)" />
+          <Property Name="IT_GRID" Type="nvarchar(max)" />
+          <Property Name="IT_PRODUCT" Type="nvarchar(max)" />
+          <Property Name="IT_PROD_ID" Type="decimal" Precision="18" Scale="2" />
+          <Property Name="MAI" Type="nvarchar(max)" />
+          <Property Name="MATCH_VENDOR" Type="nvarchar(max)" />
+          <Property Name="OAR_ID" Type="nvarchar(max)" />
+          <Property Name="Phase" Type="decimal" Precision="18" Scale="2" />
+          <Property Name="Planned_GLV" Type="datetime2" Precision="7" />
+          <Property Name="SUB_DOMAIN" Type="nvarchar(max)" />
+          <Property Name="WAVE_Before_WP2_0" Type="nvarchar(max)" />
+          <Property Name="WAVE_Changes_After_WP2_0" Type="nvarchar(max)" />
+          <Property Name="WP30_Base" Type="nvarchar(max)" />
+          <Property Name="WP_2_0_5" Type="nvarchar(max)" />
+          <Property Name="WP_2_0_5_Base" Type="nvarchar(max)" />
+          <Property Name="WP_2_0_old_tag" Type="nvarchar(max)" />
+          <Property Name="WP_4_0" Type="nvarchar(max)" />
+          <Property Name="WP_4_0_Grouping" Type="nvarchar(max)" />
+          <Property Name="Rating" Type="nvarchar(max)" />
+        </EntityType>
+        <Function Name="spGET_IT_PRODUCT_ALL" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="lMAI" Type="varchar" Mode="In" />
+          <Parameter Name="lOAR_id" Type="varchar" Mode="In" />
+          <Parameter Name="lIT_PRODUCT" Type="varchar" Mode="In" />
+          <Parameter Name="lIT_PRODUCT_ID" Type="decimal" Mode="In" />
+          <Parameter Name="lCIA_RATING" Type="decimal" Mode="In" />
+          <Parameter Name="lDOMAIN" Type="varchar" Mode="In" />
+          <Parameter Name="lWP_4" Type="varchar" Mode="In" />
+        </Function>
+        <EntityContainer Name="AAB_BANKModelStoreContainer">
+          <EntitySet Name="Wave_Plan" EntityType="Self.Wave_Plan" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="AAB_BANKModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Wave_Plan">
+          <Key>
+            <PropertyRef Name="Wave_Plan_ID" />
+          </Key>
+          <Property Name="Wave_Plan_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ADV_Health" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Assigned_Domain" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Assigned_ITDDM" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="BAU_AD_VENDOR" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="CIA_Rating" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="CI_Count" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="Category" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="DOMAIN" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Go_Live_on_CMS" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Grouping" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="IT_DELIVERY_DOMAIN" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="IT_GRID" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="IT_PRODUCT" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="IT_PROD_ID" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="MAI" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="MATCH_VENDOR" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="OAR_ID" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Phase" Type="Decimal" Precision="18" Scale="2" />
+          <Property Name="Planned_GLV" Type="DateTime" Precision="7" />
+          <Property Name="SUB_DOMAIN" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="WAVE_Before_WP2_0" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="WAVE_Changes_After_WP2_0" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="WP30_Base" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="WP_2_0_5" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="WP_2_0_5_Base" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="WP_2_0_old_tag" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="WP_4_0" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="WP_4_0_Grouping" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Rating" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="AAB_BANKEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Wave_Plan" EntityType="Self.Wave_Plan" />
+          <FunctionImport Name="spGET_IT_PRODUCT_ALL" ReturnType="Collection(AAB_BANKModel.spGET_IT_PRODUCT_ALL_Result)">
+            <Parameter Name="lMAI" Mode="In" Type="String" />
+            <Parameter Name="lOAR_id" Mode="In" Type="String" />
+            <Parameter Name="lIT_PRODUCT" Mode="In" Type="String" />
+            <Parameter Name="lIT_PRODUCT_ID" Mode="In" Type="Decimal" />
+            <Parameter Name="lCIA_RATING" Mode="In" Type="Decimal" />
+            <Parameter Name="lDOMAIN" Mode="In" Type="String" />
+            <Parameter Name="lWP_4" Mode="In" Type="String" />
+          </FunctionImport>
+          <FunctionImport Name="fnGET_IT_PRODUCT_ALL">
+            <Parameter Name="lMAI" Mode="In" Type="String" />
+            <Parameter Name="lOAR_id" Mode="In" Type="String" />
+            <Parameter Name="lIT_PRODUCT" Mode="In" Type="String" />
+            <Parameter Name="lIT_PRODUCT_ID" Mode="In" Type="Decimal" />
+            <Parameter Name="lCIA_RATING" Mode="In" Type="Decimal" />
+            <Parameter Name="lDOMAIN" Mode="In" Type="String" />
+            <Parameter Name="lWP_4" Mode="In" Type="String" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="spGET_IT_PRODUCT_ALL_Result">
+          <Property Type="String" Name="MAI" Nullable="true" />
+          <Property Type="String" Name="OAR_ID" Nullable="true" />
+          <Property Type="String" Name="IT_PRODUCT" Nullable="true" />
+          <Property Type="Decimal" Name="IT_PROD_ID" Nullable="true" Precision="18" Scale="2" />
+          <Property Type="Decimal" Name="CIA_RATING" Nullable="true" Precision="18" Scale="2" />
+          <Property Type="String" Name="DOMAIN" Nullable="true" />
+          <Property Type="String" Name="WP_4_0" Nullable="true" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="AAB_BANKModelStoreContainer" CdmEntityContainer="AAB_BANKEntities">
+          <EntitySetMapping Name="Wave_Plan">
+            <EntityTypeMapping TypeName="AAB_BANKModel.Wave_Plan">
+              <MappingFragment StoreEntitySet="Wave_Plan">
+                <ScalarProperty Name="Wave_Plan_ID" ColumnName="Wave_Plan_ID" />
+                <ScalarProperty Name="ADV_Health" ColumnName="ADV_Health" />
+                <ScalarProperty Name="Assigned_Domain" ColumnName="Assigned_Domain" />
+                <ScalarProperty Name="Assigned_ITDDM" ColumnName="Assigned_ITDDM" />
+                <ScalarProperty Name="BAU_AD_VENDOR" ColumnName="BAU_AD_VENDOR" />
+                <ScalarProperty Name="CIA_Rating" ColumnName="CIA_Rating" />
+                <ScalarProperty Name="CI_Count" ColumnName="CI_Count" />
+                <ScalarProperty Name="Category" ColumnName="Category" />
+                <ScalarProperty Name="DOMAIN" ColumnName="DOMAIN" />
+                <ScalarProperty Name="Go_Live_on_CMS" ColumnName="Go_Live_on_CMS" />
+                <ScalarProperty Name="Grouping" ColumnName="Grouping" />
+                <ScalarProperty Name="IT_DELIVERY_DOMAIN" ColumnName="IT_DELIVERY_DOMAIN" />
+                <ScalarProperty Name="IT_GRID" ColumnName="IT_GRID" />
+                <ScalarProperty Name="IT_PRODUCT" ColumnName="IT_PRODUCT" />
+                <ScalarProperty Name="IT_PROD_ID" ColumnName="IT_PROD_ID" />
+                <ScalarProperty Name="MAI" ColumnName="MAI" />
+                <ScalarProperty Name="MATCH_VENDOR" ColumnName="MATCH_VENDOR" />
+                <ScalarProperty Name="OAR_ID" ColumnName="OAR_ID" />
+                <ScalarProperty Name="Phase" ColumnName="Phase" />
+                <ScalarProperty Name="Planned_GLV" ColumnName="Planned_GLV" />
+                <ScalarProperty Name="SUB_DOMAIN" ColumnName="SUB_DOMAIN" />
+                <ScalarProperty Name="WAVE_Before_WP2_0" ColumnName="WAVE_Before_WP2_0" />
+                <ScalarProperty Name="WAVE_Changes_After_WP2_0" ColumnName="WAVE_Changes_After_WP2_0" />
+                <ScalarProperty Name="WP30_Base" ColumnName="WP30_Base" />
+                <ScalarProperty Name="WP_2_0_5" ColumnName="WP_2_0_5" />
+                <ScalarProperty Name="WP_2_0_5_Base" ColumnName="WP_2_0_5_Base" />
+                <ScalarProperty Name="WP_2_0_old_tag" ColumnName="WP_2_0_old_tag" />
+                <ScalarProperty Name="WP_4_0" ColumnName="WP_4_0" />
+                <ScalarProperty Name="WP_4_0_Grouping" ColumnName="WP_4_0_Grouping" />
+                <ScalarProperty Name="Rating" ColumnName="Rating" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="spGET_IT_PRODUCT_ALL" FunctionName="AAB_BANKModel.Store.spGET_IT_PRODUCT_ALL">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="AAB_BANKModel.spGET_IT_PRODUCT_ALL_Result">
+                <ScalarProperty Name="MAI" ColumnName="MAI" />
+                <ScalarProperty Name="OAR_ID" ColumnName="OAR_ID" />
+                <ScalarProperty Name="IT_PRODUCT" ColumnName="IT_PRODUCT" />
+                <ScalarProperty Name="IT_PROD_ID" ColumnName="IT_PROD_ID" />
+                <ScalarProperty Name="CIA_RATING" ColumnName="CIA_RATING" />
+                <ScalarProperty Name="DOMAIN" ColumnName="DOMAIN" />
+                <ScalarProperty Name="WP_4_0" ColumnName="WP_4_0" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="fnGET_IT_PRODUCT_ALL" FunctionName="AAB_BANKModel.Store.spGET_IT_PRODUCT_ALL" />
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
